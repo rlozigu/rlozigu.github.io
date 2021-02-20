@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://rlozigu.github.io'
-baseurl: ''
+baseurl: '/'
 title: 'rlozigu'
 description: 'Hello earth'
 permalink: pretty
