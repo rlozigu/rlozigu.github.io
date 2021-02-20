@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://rlozigu.github.io'
 baseurl: ''
-title: 'Hello earth'
-description: 'rlozigu'
+title: 'rlozigu'
+description: 'Hello earth'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
