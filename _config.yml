@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://rlozigu.github.io/'
+url: 'https://rlozigu.github.io'
 baseurl: ''
 title: 'Hello earth'
-#description: ''
+description: 'rlozigu'
 permalink: pretty
-logo: "assets/logos/planet-earth.png"
+logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
